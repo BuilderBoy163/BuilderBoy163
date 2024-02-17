@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BuilderBoy
+Hi, I’m @BuilderBoy
 Hobbies: Drawing, Minecraft, Cooking, Outdoors things
 Languages: HTML, CSS, JavaScript, Python
 Discord: @BuilderBoy
