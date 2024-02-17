@@ -1,7 +1,11 @@
 -Hi, I’m @BuilderBoy
+
 -Hobbies: Drawing, Minecraft, Cooking, Outdoors things
+
 -Languages: HTML, CSS, JavaScript, Python
+
 -Discord: @BuilderBoy
+
 -I program: Mods, Websites, Games
 
 <!---
