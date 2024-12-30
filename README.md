@@ -1,11 +1,13 @@
 # Hello
 -Hi, I’m @BuilderBoy
 
--Hobbies: Drawing, Minecraft, Cooking, Outdoors things
+-Hobbies: Programming, Minecraft, Outdoors things
 
--Languages: HTML, CSS, JavaScript, Python
+-Languages: HTML, CSS, JavaScript, Python, Rust, Java
 
--Discord: @BuilderBoy
+-Discord: iDontByte
+
+-Youtube: youtube.com/@iDontByte
 
 -I program: Mods, Websites, Games
 
