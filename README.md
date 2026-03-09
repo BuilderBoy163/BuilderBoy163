@@ -9,5 +9,6 @@
 
 <pre>My Current projects:
   CQR
-  Chrome Extensions</pre>
+  Chrome Extensions
+  AudioWizard Copyright Protection</pre>
   
